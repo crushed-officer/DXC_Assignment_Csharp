@@ -1,0 +1,7 @@
+C:\Users\asantra2\source\repos\AssignmentCsharp\AssignmentCsharp\bin\Debug\AssignmentCsharp.exe.config
+C:\Users\asantra2\source\repos\AssignmentCsharp\AssignmentCsharp\bin\Debug\AssignmentCsharp.exe
+C:\Users\asantra2\source\repos\AssignmentCsharp\AssignmentCsharp\bin\Debug\AssignmentCsharp.pdb
+C:\Users\asantra2\source\repos\AssignmentCsharp\AssignmentCsharp\obj\Debug\AssignmentCsharp.csprojAssemblyReference.cache
+C:\Users\asantra2\source\repos\AssignmentCsharp\AssignmentCsharp\obj\Debug\AssignmentCsharp.csproj.CoreCompileInputs.cache
+C:\Users\asantra2\source\repos\AssignmentCsharp\AssignmentCsharp\obj\Debug\AssignmentCsharp.exe
+C:\Users\asantra2\source\repos\AssignmentCsharp\AssignmentCsharp\obj\Debug\AssignmentCsharp.pdb
