@@ -1,0 +1,33 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+    <script>
+        function check() {
+            var x = Math.floor((Math.random() * 10) + 1);
+            var i = document.getElementById('inputFiled').value;
+
+            if (i === x) {
+                return "Good Work";
+            } else {
+                return "Not matched";
+            }
+
+        }
+    </script>
+</head>
+<body>
+    <br>
+    <input id="inputFiled" type=text />
+    <br>
+
+    <br>
+    <button onclick="check">submit</button>
+    <br>
+
+</body>
+</html>
+
+
+
